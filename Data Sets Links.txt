@@ -1,0 +1,13 @@
+Task 3 + 4
+https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download
+
+Task 2
+https://www.kaggle.com/datasets/yasserh/advertising-sales-dataset
+
+
+Task 5 
+
+https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating
+
+Task 6
+https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
